@@ -24,9 +24,7 @@ pip install -r requirements.txt
         git clone https://github.com/SudeeraDilshan/Virtual-Mouse.git
         cd Virtual-Mouse
         ```
-        ```bash
-pip install -r requirements.txt
-```
+
 ### Step 2: Install Dependencies
   Install the required dependencies using pip:
         ```bash
