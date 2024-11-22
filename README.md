@@ -20,6 +20,7 @@ pip install -r requirements.txt
 
 ### Step 1: Clone the Repository
    Clone the repository to your local machine by running the following command:
+   
         ```bash
         git clone https://github.com/SudeeraDilshan/Virtual-Mouse.git
         cd Virtual-Mouse
@@ -27,12 +28,14 @@ pip install -r requirements.txt
 
 ### Step 2: Install Dependencies
   Install the required dependencies using pip:
+  
         ```bash
         pip install -r requirements.txt
         ```
 
 ### Step 3: Run the Script
-  To start using the virtual mouse, run the Python script main.py:   
+  To start using the virtual mouse, run the Python script main.py:  
+  
         ```bash
         python main.py
         ```
