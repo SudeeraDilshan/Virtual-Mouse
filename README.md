@@ -15,6 +15,21 @@ You can install all dependencies by running the following command:
 
 ```bash
 pip install -r requirements.txt
-
-
+```
 ## How to run locally
+
+### Step 1: Clone the Repository
+   Clone the repository to your local machine by running the following command:
+        git clone https://github.com/SudeeraDilshan/Virtual-Mouse.git
+        cd Virtual-Mouse
+### Step 2: Install Dependencies
+  Install the required dependencies using pip:
+        pip install -r requirements.txt
+
+### Step 3: Run the Script
+  To start using the virtual mouse, run the Python script main.py:   
+        python main.py
+
+        
+
+
