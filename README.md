@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ### Step 1: Clone the Repository
    Clone the repository to your local machine by running the following command:
    
-        ```bash
+        ```
         git clone https://github.com/SudeeraDilshan/Virtual-Mouse.git
         cd Virtual-Mouse
         ```
