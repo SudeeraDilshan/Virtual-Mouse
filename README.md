@@ -28,16 +28,13 @@ pip install -r requirements.txt
 ### Step 2: Install Dependencies
   Install the required dependencies using pip:
   
-        ```bash
         pip install -r requirements.txt
-        ```
 
 ### Step 3: Run the Script
   To start using the virtual mouse, run the Python script main.py:  
   
-        ```bash
         python main.py
-        ```
+        
 
         
 
